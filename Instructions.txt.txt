@@ -1,0 +1,1 @@
+Please run the DiUSComputerStore.sln file in visual studio as this is the Console App in C# .Net Core.
