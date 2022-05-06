@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Currency": "$",
+    "Name": "Super iPad",
+    "Price": 549.99,
+    "SKU": "ipd"
+  },
+  {
+    "Currency": "$",
+    "Name": "MacBook Pro",
+    "Price": 1399.99,
+    "SKU": "mbp"
+  },
+  {
+    "Currency": "$",
+    "Name": "Apple TV",
+    "Price": 109.50,
+    "SKU": "atv"
+  },
+  {
+    "Currency": "$",
+    "Name": "VGA adapter",
+    "Price": 30.00,
+    "SKU": "vga"
+  }
+]
